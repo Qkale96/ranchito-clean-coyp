@@ -1,0 +1,12 @@
+# Sistema de Inventario de Autopartes
+# Dependencias del proyecto
+
+# Interfaz gráfica (incluida en Python estándar)
+# tkinter - No requiere instalación, viene con Python
+
+# Procesamiento de imágenes
+Pillow>=10.0.0
+
+# Generación de códigos QR
+qrcode[pil]>=7.4.2
+
